@@ -13,6 +13,37 @@ Open-Meteo API를 활용하여 현재 날씨와 7일 예보를 확인할 수 있
 
 ---
 
+## 📸 Preview
+
+### Desktop
+
+#### Main Page
+
+<img width="962" height="510" alt="image" src="https://github.com/user-attachments/assets/88cdbb8b-13e3-4ce9-a9b0-dabf9cb81020" />
+
+#### Detail Page
+
+<img width="850" height="803" alt="image" src="https://github.com/user-attachments/assets/3933f160-0f4f-4435-b8cc-6bf0d9d87ce4" />
+
+### Mobile
+
+<table align="left">
+  <tr>
+    <th>Main Page</th>
+    <th>Detail Page</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/e046e735-ab57-49ff-b6a5-6c355f74f3f5" width="280"/>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/130170cf-a2ed-4954-bb75-45708476a088" width="280"/>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## ✨ 주요 기능
 
 - 도시별 현재 날씨 조회
@@ -134,34 +165,3 @@ utils/
 - 오류 원인 분석 및 리팩토링
 
 최종 구현 및 수정은 직접 수행하였습니다.
-
----
-
-## 📸 Preview
-
-### Desktop
-
-#### Main Page
-
-<img width="962" height="510" alt="image" src="https://github.com/user-attachments/assets/88cdbb8b-13e3-4ce9-a9b0-dabf9cb81020" />
-
-#### Detail Page
-
-<img width="850" height="803" alt="image" src="https://github.com/user-attachments/assets/3933f160-0f4f-4435-b8cc-6bf0d9d87ce4" />
-
-### Mobile
-
-<table align="left">
-  <tr>
-    <th>Main Page</th>
-    <th>Detail Page</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/e046e735-ab57-49ff-b6a5-6c355f74f3f5" width="280"/>
-    </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/130170cf-a2ed-4954-bb75-45708476a088" width="280"/>
-    </td>
-  </tr>
-</table>
