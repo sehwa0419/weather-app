@@ -27,20 +27,22 @@ Open-Meteo API를 활용하여 현재 날씨와 7일 예보를 확인할 수 있
 
 ### Mobile
 
-<table align="left">
+<table>
   <tr>
     <th>Main Page</th>
     <th>Detail Page</th>
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/e046e735-ab57-49ff-b6a5-6c355f74f3f5" width="280"/>
+      <img src="https://github.com/user-attachments/assets/e046e735-ab57-49ff-b6a5-6c355f74f3f5" width="280" />
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/130170cf-a2ed-4954-bb75-45708476a088" width="280"/>
+      <img src="https://github.com/user-attachments/assets/130170cf-a2ed-4954-bb75-45708476a088" width="280" />
     </td>
   </tr>
 </table>
+
+<br clear="all">
 
 ---
 
