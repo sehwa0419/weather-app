@@ -7,6 +7,8 @@ Open-Meteo API를 활용하여 현재 날씨와 7일 예보를 확인할 수 있
 
 ## 🔗 배포 주소
 
+**Live Demo**
+
 [https://weather-app-pi-eight-43.vercel.app](https://weather-app-pi-eight-43.vercel.app/)
 
 ---
@@ -38,6 +40,11 @@ Open-Meteo API를 활용하여 현재 날씨와 7일 예보를 확인할 수 있
 ### Deployment
 
 - Vercel
+
+### Version Control
+
+- Git
+- GitHub
 
 ---
 
@@ -107,7 +114,7 @@ utils/
 
 ## 추가 기능
 
-- Open-Meteo API를 이용한 실시간 날씨 조회
+- Open-Meteo API를 이용한 현재 날씨 조회
 - localStorage를 활용한 즐겨찾기 기능
 - 즐겨찾기한 도시 상단 고정
 - 최신 날씨 다시 불러오기
@@ -119,6 +126,12 @@ utils/
 ## AI 사용 여부
 
 프로젝트 개발 과정에서 ChatGPT를 활용하였습니다.
+
+활용 내용
+- Next.js App Router 구조 학습
+- Open-Meteo API 연동 방식 검토
+- 기능 구현 아이디어 및 코드 리뷰
+- 오류 원인 분석 및 리팩토링
 
 최종 구현 및 수정은 직접 수행하였습니다.
 
