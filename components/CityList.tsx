@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { useMemo, useState } from "react";
 
 import CityCard from "@/components/CityCard";
 
@@ -20,16 +20,15 @@ type CityListProps = {
 const FAVORITES_KEY = "favoriteCities";
 
 export default function CityList({ cities }: CityListProps) {
-  const [favoriteCities, setFavoriteCities] = useState<string[]>([]);
+  const [favoriteCities, setFavoriteCities] = useState<string[]>(() => {
+    if (typeof window === "undefined") {
+      return [];
+    }
 
-  // 처음 화면을 열 때 저장된 관심 도시 불러오기
-  useEffect(() => {
-    const savedFavorites = JSON.parse(
+    return JSON.parse(
       localStorage.getItem(FAVORITES_KEY) ?? "[]"
     ) as string[];
-
-    setFavoriteCities(savedFavorites);
-  }, []);
+  });
 
   // 관심 도시 저장 또는 해제
   const toggleFavorite = (cityId: string) => {
