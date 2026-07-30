@@ -151,7 +151,7 @@ utils/
 
 ### Mobile
 
-<table align="center">
+<table align="left">
   <tr>
     <th>Main Page</th>
     <th>Detail Page</th>
