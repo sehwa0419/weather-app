@@ -151,10 +151,7 @@ utils/
 
 ### Mobile
 
-#### Main Page
-
-<img width="342" height="677" alt="image" src="https://github.com/user-attachments/assets/e046e735-ab57-49ff-b6a5-6c355f74f3f5" />
-
-#### Detail Page
-
-<img width="331" height="664" alt="image" src="https://github.com/user-attachments/assets/130170cf-a2ed-4954-bb75-45708476a088" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e046e735-ab57-49ff-b6a5-6c355f74f3f5" width="280" alt="Mobile Main"/>
+  <img src="https://github.com/user-attachments/assets/130170cf-a2ed-4954-bb75-45708476a088" width="280" alt="Mobile Detail"/>
+</p>
