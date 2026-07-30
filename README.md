@@ -126,11 +126,22 @@ utils/
 
 ## 📸 Preview
 
-### Main Page
+### Desktop
+
+#### Main Page
 
 <img width="962" height="510" alt="image" src="https://github.com/user-attachments/assets/88cdbb8b-13e3-4ce9-a9b0-dabf9cb81020" />
 
-### Detail Page
+#### Detail Page
 
 <img width="850" height="803" alt="image" src="https://github.com/user-attachments/assets/3933f160-0f4f-4435-b8cc-6bf0d9d87ce4" />
 
+### Mobile
+
+#### Main Page
+
+<img width="342" height="677" alt="image" src="https://github.com/user-attachments/assets/e046e735-ab57-49ff-b6a5-6c355f74f3f5" />
+
+#### Detail Page
+
+<img width="331" height="664" alt="image" src="https://github.com/user-attachments/assets/130170cf-a2ed-4954-bb75-45708476a088" />
